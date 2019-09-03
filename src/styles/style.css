@@ -1,0 +1,22 @@
+.foodList{
+    display:flex;
+    flex-direction: row;
+    margin:auto
+}
+.foodBlock{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 9em;
+    margin: 0.5em;
+    background-color: bisque
+}
+.foodItemName{
+    text-align: center;
+}
+.foodItemName{
+    font-weight: bold
+}
+#ingredients{
+    font-style: italic;
+}
